@@ -1,4 +1,6 @@
-### Olá! Eu sou o Lucas Gomes
+### Hi there! My name is Lucas Gomes and I am passionate about data science. I have over 10 years of experience in accounting, which has given me a strong foundation in data analysis and problem-solving. I also love programming in Python and am always looking for new ways to apply these skills in interesting projects. In my free time, I love playing video games and having fun with my friends. If you want to know more about me or my work, don't hesitate to reach out!
+
+### Olá! Meu nome é Lucas Gomes e sou apaixonado por ciência de dados. Tenho mais de 10 anos de experiência em contabilidade, o que me deu uma base sólida em análise de dados e resolução de problemas. Além disso, adoro programar em Python e estou sempre procurando por novas maneiras de aplicar essas habilidades em projetos interessantes. No meu tempo livre, sou um fã de video games e adoro me divertir com os meus amigos. Se você quiser saber mais sobre mim ou meu trabalho, não hesite em entrar em contato!
 
 - 🌱 Etudando Ciências de Dados
 - 📫 Contate-me no email: lucasgomes.dados@gmail.com
