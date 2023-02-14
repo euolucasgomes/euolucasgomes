@@ -24,8 +24,7 @@ I am currently studying at [EBAC](https://ebaconline.com.br/about-us), which has
 ### Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-gomes-de-oliveira-75b234107/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.kaggle.com/account/avatar/lucasgomesdados" target="_blank" rel="noreferrer"><img src="https://www.kaggle.com/account/avatar/lucasgomesdados" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/lucas-gomes-de-oliveira-75b234107/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
