@@ -10,7 +10,7 @@ I am currently studying at [EBAC](https://ebaconline.com.br/about-us), which has
 
 * 🌍  I'm located in Brasília, Brazil.
 * ✉️  You can reach me at [lucasgomes.dados@gmail.com](mailto:lucasgomes.dados@gmail.com).
-* 🚀  Currently, I'm working at [Razon Contabilidade](https://www.razoncontabilidade.com.br/).
+* 🚀  Currently, I'm working at [Crony Sales](https://cronysales.com/).
 * 🧠  I'm continuously enhancing my skills in SQL, Python, CSS, and exploring libraries like Pandas, Plotly, and Dash.
 * 🤝  I am open to collaborating on projects that have a positive impact on company growth and development.
 * 🎮  I enjoy playing video games, and my favorite is FIFA.
