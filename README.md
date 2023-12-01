@@ -23,7 +23,7 @@ I'm a passionate learner and emerging professional at the intersection of techno
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git," />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github," />
   </a>
 </p>
 
@@ -31,6 +31,7 @@ I'm a passionate learner and emerging professional at the intersection of techno
 
 <a href="https://github.com/euolucasgomes" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euolucasgomes&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=euolucasgomes&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
 </a>
 
 ### 📱 My Social Networks:
