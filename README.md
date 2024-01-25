@@ -15,7 +15,7 @@ I'm a passionate learner and emerging professional at the intersection of techno
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,mysql,sqlite," />
+    <img src="https://skillicons.dev/icons?i=html,css,python,mysql,sqlite,django," />
   </a>
 </p>
 
