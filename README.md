@@ -8,7 +8,7 @@ I'm a passionate learner and emerging professional at the intersection of techno
 
 * 📍 Location: Brasília, Brazil
 * 📫 Reach Me At: [lucasgomes.dados@gmail.com](mailto:lucasgomes.dados@gmail.com).
-* 💼 Current Engagement: Employed at [Crony Sales](https://cronysales.com/), actively seeking junior positions in data and development.
+* 💼 Current Engagement: Employed at [Fluxo Vendas](https://fluxovendas.com.br/), actively seeking junior positions in data and development.
 * 🤝 Open to Opportunities: Eager to join a team where I can contribute and grow in the fields of data analysis and web development.
 
 ## 🚀 My Skills:
