@@ -4,7 +4,7 @@
 🎯 Sou desenvolvedor focado em soluções backend usando Python e tecnologias modernas como Flask, FastAPI e PostgreSQL. Experiência em automação de processos, APIs RESTful e análise de dados. Apaixonado por criar sistemas escaláveis e eficientes.
 
 - 📍 **Localização**: Brasília, Brasil  
-- 📫 **Contato**: [lucasgomes.dados@gmail.com](mailto:lucasgomescomp@hotmail.com)  
+- 📫 **Contato**: [lucasgomescomp@hotmail.com](mailto:lucasgomescomp@hotmail.com)  
 - 🚀 **Portfólio**: Projetos voltados para automação e sistemas backend.  
 - 💡 **Aberto a oportunidades**: Estou buscando vagas como desenvolvedor Python Back-End. Vamos conectar!
 
