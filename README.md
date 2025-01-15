@@ -31,7 +31,7 @@
 ## 🛠️ Projetos
 
 ### **1. Automação de Processos com Python (Selenium)**  
-**Repositório**: `automacao-processos-python`  
+**Repositório**: <a href="https://github.com/euolucasgomes/automacao-processos-python">`automacao-processos-python`</a>  
 **Descrição**: Ferramenta para automação de tarefas administrativas como preenchimento de formulários e extração de dados.  
 **Habilidades**: Python, Selenium, Flask, pandas, PostgreSQL.  
 **Destaques**:
