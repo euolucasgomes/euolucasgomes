@@ -1,5 +1,5 @@
 # Lucas de Oliveira
-**Backend Developer (Estagiário) | Python • Java • Node.js • Spring Boot • MySQL/MongoDB**
+**Backend Developer | Python • Java • Node.js • Spring Boot • MySQL/MongoDB**
 
 Sou profissional em transição para TI com base sólida em contabilidade e foco em **desenvolvimento backend**. Experiência prática em **Python** para **automação de processos** (Pandas, Openpyxl) e **integração de dados**; estudo ativo de **Java**, **Node.js** e **bancos de dados**. Busco aplicar fundamentos de **APIs REST, POO e Git** em projetos reais, com código limpo e orientado a resultados.
 
