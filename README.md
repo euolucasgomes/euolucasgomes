@@ -1,83 +1,69 @@
 # Lucas de Oliveira
-**Desenvolvedor Back-End Python em busca de inovação e eficiência**
+**Backend Developer (Estagiário) | Python • Java • Node.js • Spring Boot • MySQL/MongoDB**
 
-🎯 Sou desenvolvedor focado em soluções backend usando Python e tecnologias modernas como Flask, FastAPI e PostgreSQL. Experiência em automação de processos, APIs RESTful e análise de dados. Apaixonado por criar sistemas escaláveis e eficientes.
+Sou profissional em transição para TI com base sólida em contabilidade e foco em **desenvolvimento backend**. Experiência prática em **Python** para **automação de processos** (Pandas, Openpyxl) e **integração de dados**; estudo ativo de **Java**, **Node.js** e **bancos de dados**. Busco aplicar fundamentos de **APIs REST, POO e Git** em projetos reais, com código limpo e orientado a resultados.
 
 - 📍 **Localização**: Brasília, Brasil  
 - 📫 **Contato**: [lucasgomescomp@hotmail.com](mailto:lucasgomescomp@hotmail.com)  
-- 🚀 **Portfólio**: Projetos voltados para automação e sistemas backend.  
-- 💡 **Aberto a oportunidades**: Estou buscando vagas como desenvolvedor Python Back-End. Vamos conectar!
+- 🚀 **Portfólio**: Automação de dados e sistemas backend  
+- 💡 **Aberto a oportunidades**: Estágio em Backend ou Backend Júnior (remoto/DF)
 
 ---
 
 ## 🚀 Habilidades e Ferramentas
 
-### **Habilidades**
-- **Python Backend**: Flask, FastAPI, APIs RESTful.
-- **Banco de Dados**: PostgreSQL, MongoDB.
-- **Automação**: Selenium, pandas.
-- **Mensageria**: Apache Kafka, RabbitMQ.
-- **CI/CD**: Docker, Git, GitHub Actions.
+### **Principais competências**
+- **Linguagens/Backend**: Python, Java, Node.js.
+- **Frameworks**: Spring Boot.
+- **Bancos de dados**: MySQL, MongoDB.
+- **Data & Automação**: Pandas, Openpyxl.
+- **Fundamentos**: REST APIs, Git, POO.
 
 ### **Ferramentas**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,postgres,mongodb,docker,github,selenium" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,spring,mysql,mongodb,git" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Projetos
+## 🛠️ Projetos (em construção)
 
-### **1. Automação de Processos com Python (Selenium)**  
-**Repositório**: <a href="https://github.com/euolucasgomes/automacao-processos-python">`automacao-processos-python`</a>  
-**Descrição**: Ferramenta para automação de tarefas administrativas como preenchimento de formulários e extração de dados.  
-**Habilidades**: Python, Selenium, Flask, pandas, PostgreSQL.  
+### **1. ETL Contábil em Python (Automação de Planilhas → TXT/BD)**  
+**Repositório**: <a href="#">`etl-contabil-python`</a>  
+**Stack**: Python, Pandas, Openpyxl, (MySQL/MongoDB opcional).  
+**Descrição**: Consolida planilhas semanais, normaliza dados e gera .txt no padrão de importação contábil (ou grava em BD).  
 **Destaques**:
-- Scripts de automação bem documentados.
-- Uso de Flask para um painel de controle.
+- CLI.
+- mapeamentos em YAML.
+- testes (pytest).
+- README bilíngue
+- GitHub Actions
 
 ---
 
-### **2. API RESTful para Gestão de Tarefas**  
-**Repositório**: `api-rest-gestao-tarefas`  
-**Descrição**: API robusta com segurança JWT para gerenciamento de tarefas e usuários.  
-**Habilidades**: Python, FastAPI, PostgreSQL, Docker.  
+### **2. API de Lançamentos Contábeis (Spring Boot + MySQL)**  
+**Repositório**: <a href="#">`api-lancamentos-contabeis-spring`</a>  
+**Stack**: Java, Spring Boot, JPA/Hibernate, MySQL.  
+**Descrição**: CRUD de lançamentos/contas, paginação e validação; documentação com OpenAPI/Swagger.  
 **Destaques**:
-- Implementação de testes automatizados com Pytest.
-- Documentação usando Swagger.
+- Padrões REST.
+- camadas claras (controller/service/repository).
+- testes (JUnit).
 
 ---
 
-### **3. Sistema de Mensageria com Kafka**  
-**Repositório**: `sistema-mensageria-kafka`  
-**Descrição**: Pipeline de envio de notificações usando Apache Kafka para distribuição escalável.  
-**Habilidades**: Python, Kafka, MongoDB, Docker.  
+### **3. MediApp — Sistema de Agendamento Médico (Node.js + MongoDB)**  
+**Repositório**: <a href="#">`MediApp`</a>  
+**Stack**: Node.js, Express, MongoDB, Mongoose, JWT, validação (Joi/Zod), Jest, Swagger, Docker.  
+**Descrição**: API RESTful para cadastro de pacientes, médicos e agendamentos, com autenticação e boas práticas de backend.  
 **Destaques**:
-- Configuração de um dashboard para monitoramento em tempo real.
-- Uso de arquitetura orientada a eventos.
-
----
-
-### **4. Plataforma de Análise de Dados**  
-**Repositório**: `analise-dados-python`  
-**Descrição**: Plataforma para ingestão e análise de grandes volumes de dados com dashboards interativos.  
-**Habilidades**: Python, pandas, Streamlit, PostgreSQL.  
-**Destaques**:
-- Transformações de dados automatizadas.
-- Painéis interativos com Streamlit.
-
----
-
-### **5. Integração de Sistemas em Python e Java**  
-**Repositório**: `integracao-python-java`  
-**Descrição**: Sistema de interoperabilidade entre linguagens usando APIs RESTful e RabbitMQ.  
-**Habilidades**: Python, Flask, Spring Boot, RabbitMQ.  
-**Destaques**:
-- Documentação completa de integração.
-- Logs detalhados para monitoramento.
-
+- Estrutura MVC com camadas (routes → controllers → services → models).
+- Autenticação JWT (login/registro) e hash de senha (bcrypt).
+- CRUD de Pacientes, Médicos e Agendamentos com paginação/filtro.
+- Validação de entrada, tratamento centralizado de erros e logs.
+- Testes automatizados (Jest + supertest) e documentação Swagger.
 ---
 
 ## 📊 Estatísticas do GitHub
