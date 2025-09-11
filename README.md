@@ -31,7 +31,7 @@ Sou profissional em transição para TI com base sólida em contabilidade e foco
 ## 🛠️ Projetos (em construção)
 
 ### **1. ETL Contábil em Python (Automação de Planilhas → TXT/BD)**  
-**Repositório**: <a href="https://github.com/euolucasgomes/conversor-planilha-txt-dominio">`etl-contabil-python`</a>  
+**Repositório**: <a href="https://github.com/euolucasgomes/conversor-planilha-txt-dominio">`conversor-planilha-txt-dominio`</a>  
 **Stack**: Python, Pandas, Openpyxl, (MySQL/MongoDB opcional).  
 **Descrição**: Consolida planilhas semanais, normaliza dados e gera .txt no padrão de importação contábil (ou grava em BD).  
 **Destaques**:
