@@ -21,9 +21,13 @@ Sou profissional em transição para TI com base sólida em contabilidade e foco
 
 ### **Ferramentas**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,nodejs,spring,mysql,mongodb,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
 </p>
 
 ---
