@@ -30,16 +30,16 @@ Sou profissional em transição para TI com base sólida em contabilidade e foco
 
 ## 🛠️ Projetos (em construção)
 
-### **1. ETL Contábil em Python (Automação de Planilhas → TXT/BD)**  
+### **1. Conversor de Planilhas Financeiras (Python + MongoDB)**  
 **Repositório**: <a href="https://github.com/euolucasgomes/conversor-planilha-txt-dominio">`conversor-planilha-txt-dominio`</a>  
-**Stack**: Python, Pandas, Openpyxl, (MySQL/MongoDB opcional).  
-**Descrição**: Consolida planilhas semanais, normaliza dados e gera .txt no padrão de importação contábil (ou grava em BD).  
+**Stack**: Python, Pandas, Openpyxl, Pymongo, MongoDB (ou SQLite). 
+**Descrição**: Backend que **lê, processa e converte planilhas financeiras** recebidas de clientes de escritórios contábeis, estruturando os dados para importação no sistema **Domínio Sistemas**.  
 **Destaques**:
-- CLI.
-- mapeamentos em YAML.
-- testes (pytest).
-- README bilíngue
-- GitHub Actions
+- Arquitetura modular em camadas (Db → Services → Readers → Main).
+- Programação Orientada a Objetos (POO com classes e herança).
+- Separação de testes em test.py para validação de funcionalidades.
+- Documentação clara com diagrama de arquitetura em Mermaid.
+- Estrutura pronta para expansão (outros tipos de planilhas, testes automatizados, logs e API futura).
 
 ---
 
