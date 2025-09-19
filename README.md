@@ -42,7 +42,7 @@ Sou profissional em transição para TI com base sólida em contabilidade e foco
 - Estrutura pronta para expansão (outros tipos de planilhas, testes automatizados, logs e API futura).
 
 ---
-
+<!--
 ### **2. API de Lançamentos Contábeis (Spring Boot + MySQL)**  
 **Repositório**: <a href="#">`api-lancamentos-contabeis-spring`</a>  
 **Stack**: Java, Spring Boot, JPA/Hibernate, MySQL.  
@@ -65,6 +65,7 @@ Sou profissional em transição para TI com base sólida em contabilidade e foco
 - Validação de entrada, tratamento centralizado de erros e logs.
 - Testes automatizados (Jest + supertest) e documentação Swagger.
 ---
+-->
 
 ## 📊 Estatísticas do GitHub
 <a href="https://github.com/euolucasgomes">
